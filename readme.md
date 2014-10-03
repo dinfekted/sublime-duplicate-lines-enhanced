@@ -1,7 +1,7 @@
 # Sublime DuplicateLinesEnhanced plugin
 
-Fork of https://github.com/wjthomas9/duplicate-lines; because author didn't
-wanted to accept my pull request.
+Based on https://github.com/wjthomas9/duplicate-lines (author didn't
+wanted to accept my pull request).
 
 
 ### Installation
