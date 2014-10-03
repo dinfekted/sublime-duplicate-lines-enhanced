@@ -1,3 +1,10 @@
 [
-  { "keys": ["super+shift+d"], "command": "duplicate_lines" }
+  {
+    "keys": ["ctrl+d"],
+    "command": "duplicate_lines",
+    "context": [
+      {"key": "overlay_visible", "operator": "equal", "operand": false},
+      {"key": "is_search_panel_enhanced_visible", "operator" : "equal", "operand": false}
+    ]
+  }
 ]
