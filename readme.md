@@ -25,3 +25,8 @@ It just copyign lines by hotkey.
 | Description    | Keyboard shortcut |
 |----------------|-------------------|
 | Duplicate line | ctrl+d            |
+
+
+### Dependencies
+
+None

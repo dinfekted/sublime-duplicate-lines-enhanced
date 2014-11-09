@@ -3,6 +3,7 @@
     "keys": ["ctrl+d"],
     "command": "duplicate_lines",
     "context": [
+      {"key": "setting.sublime_enhanced_keybindings", "operator": "equal", "operand": true},
       {"key": "overlay_visible", "operator": "equal", "operand": false},
       {"key": "is_search_panel_enhanced_visible", "operator" : "equal", "operand": false}
     ]
